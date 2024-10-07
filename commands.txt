@@ -1,0 +1,9 @@
+ls
+cd
+git ini
+touch
+echo
+git add
+git commit -m ""
+push (for some reason push command still doesnt work for me)
+
